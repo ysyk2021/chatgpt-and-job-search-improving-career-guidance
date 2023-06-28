@@ -3,13 +3,6 @@ The Role of ChatGPT in Improving Job Search
 
 Job search can be a daunting and overwhelming process, especially for those who are new to the workforce or transitioning between careers. However, with the advancements in technology and artificial intelligence, job seekers now have access to innovative tools that can help improve their job search experience. One such tool is ChatGPT.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an artificial intelligence-powered chatbot that uses natural language processing to communicate with users. It can understand and interpret human language, providing personalized responses to user queries and requests.
-
-In the context of job search, ChatGPT can be used as a career guidance tool that provides job seekers with insights, advice, and support throughout the job search process.
-
 How ChatGPT Can Improve Job Search
 ----------------------------------
 
