@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Career Guidance
-=========================================================
 
 Introduction to AI and chatbots
 -------------------------------

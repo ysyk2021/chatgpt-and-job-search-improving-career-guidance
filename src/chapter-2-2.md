@@ -1,5 +1,3 @@
-Different Methods of Job Search
-================================================================
 
 Job search is a critical process that involves identifying and applying for suitable employment opportunities. There are several methods that individuals can use to search for job openings, including:
 

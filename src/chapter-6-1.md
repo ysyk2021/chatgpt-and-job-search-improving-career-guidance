@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT for Improving Job Search
-===================================================================================================
 
 ChatGPT is an innovative tool that can be used to enhance the job search experience. By leveraging the power of artificial intelligence and natural language processing, job seekers can receive personalized support and guidance throughout the job search process. In this chapter, we explore the steps to implement ChatGPT for improving job search.
 

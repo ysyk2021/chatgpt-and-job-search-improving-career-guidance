@@ -1,5 +1,3 @@
-Chapter 1: Basics of Job Search
-===============================
 
 Job search is a critical process that involves identifying, applying for, and securing employment opportunities. In this chapter, we will explore the basics of job search, including its definition, different methods, and the importance of career guidance.
 

@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Job Search
-===================================
 
 Finding a job can be a challenging and stressful process, with several factors and obstacles that can impact the search. In this chapter, we will explore some of the key factors that affect the job search process, common challenges faced by job seekers, and the impact of these challenges.
 

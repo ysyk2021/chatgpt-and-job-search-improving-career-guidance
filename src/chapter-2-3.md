@@ -1,5 +1,3 @@
-Importance of Career Guidance for Job Search
-=============================================================================
 
 Job search is a critical process in one's career growth. It involves identifying job opportunities, submitting applications, and attending interviews. However, the job search process can be daunting and overwhelming, especially for those who are new to the workforce or transitioning between careers. This is where career guidance plays an essential role in helping individuals navigate the job search process.
 

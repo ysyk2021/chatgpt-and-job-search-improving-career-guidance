@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool that can help individuals improve their career guidance and job search experience. In this chapter, we explore the features and capabilities of ChatGPT, including its ability to understand natural language, provide personalized responses, and offer insights and guidance based on individual needs.
 

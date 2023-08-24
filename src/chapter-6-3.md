@@ -1,5 +1,3 @@
-Case Studies of Job Seekers that have Successfully Used ChatGPT for Job Search
-==============================================================================================================================
 
 ChatGPT is a powerful tool that can help individuals improve their job search and career development experience. In this chapter, we explore case studies of job seekers who have successfully used ChatGPT to achieve their career goals.
 

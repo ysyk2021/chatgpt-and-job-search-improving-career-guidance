@@ -1,5 +1,3 @@
-How ChatGPT can be Used for Improving Career Guidance
-=======================================================================================
 
 ChatGPT is an artificial intelligence-powered chatbot that uses natural language processing to communicate with users. It can understand and interpret human language, providing personalized responses to user queries and requests. In the context of career guidance and job search, ChatGPT can play a significant role in improving the overall experience for job seekers.
 

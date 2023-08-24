@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT, also known as GPT-3.5, is an advanced language model developed by OpenAI. It uses artificial intelligence and natural language processing to understand and respond to human language. Essentially, it can understand questions and inquiries posed in natural language and provide accurate and relevant responses.
 

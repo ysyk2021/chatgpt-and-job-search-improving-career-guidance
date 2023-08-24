@@ -1,5 +1,3 @@
-Impact of these challenges on job search
-=============================================================================
 
 Job searching can be a challenging and stressful experience. There are several factors that can impact the job search process, including economic conditions, competition, and personal circumstances. In this chapter, we will explore some of the main challenges that job seekers face during their job search and how these challenges can impact their search.
 
@@ -32,5 +30,4 @@ The challenges outlined above can have a significant impact on the job search pr
 Furthermore, these challenges can also impact mental health and well-being, leading to feelings of frustration, anxiety, and depression. It is important for job seekers to be aware of these challenges and seek support when needed, whether it be through counseling services or community resources.
 
 In conclusion, the challenges in job search can pose significant obstacles for job seekers. Understanding these challenges and how they impact the job search process is an important step towards improving career guidance and support for those seeking employment.
-
 

@@ -1,4 +1,3 @@
-# Introduction
 
 The job search process can be overwhelming, with job seekers facing a multitude of challenges and uncertainties. However, with the rise of artificial intelligence (AI) technology, there is now an opportunity to enhance career guidance and improve job search success.
 

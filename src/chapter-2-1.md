@@ -1,5 +1,3 @@
-Definition of Job Search
-=========================================================
 
 Job search is the process of seeking employment opportunities and submitting job applications to secure a suitable position. It involves identifying potential job opportunities, preparing resumes and cover letters, attending interviews, and negotiating job offers.
 

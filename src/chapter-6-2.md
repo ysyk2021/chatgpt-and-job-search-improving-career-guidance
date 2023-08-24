@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Career Guidance
-===================================================================================================
 
 ChatGPT is an innovative tool that can be used to enhance the career guidance and job search experience. By leveraging the power of artificial intelligence and natural language processing, individuals can receive personalized support and guidance throughout the career development process. In this chapter, we explore best practices for using ChatGPT in career guidance.
 

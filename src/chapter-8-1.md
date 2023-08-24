@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the powerful potential of ChatGPT in improving career guidance through job search. We have discussed its features and capabilities, best practices for using it effectively, and case studies of successful implementation.
 

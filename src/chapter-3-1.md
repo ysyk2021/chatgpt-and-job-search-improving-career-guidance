@@ -1,5 +1,3 @@
-Factors Affecting Job Search
-=================================================================
 
 Job searching can be a daunting task, and several factors can impact the process. In this chapter, we will explore some of the main factors that affect job search and how they can influence the outcomes.
 

@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Job Search
-===========================================================================================================
 
 In this chapter, we will discuss the benefits of using AI and chatbots for job search and how they can improve the job search experience for job seekers.
 

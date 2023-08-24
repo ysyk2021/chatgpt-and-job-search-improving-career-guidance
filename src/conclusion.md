@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we explored how artificial intelligence (AI) technology, specifically ChatGPT, can be used to improve career guidance through job search. We discussed the challenges involved in the job search process and the potential benefits of incorporating AI into career guidance.
 

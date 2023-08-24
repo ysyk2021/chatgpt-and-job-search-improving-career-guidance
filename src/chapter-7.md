@@ -1,5 +1,3 @@
-Chapter 6: Future of Job Search with ChatGPT
-============================================
 
 In this chapter, we will explore the potential advancements, emerging trends, and challenges in job search with ChatGPT.
 

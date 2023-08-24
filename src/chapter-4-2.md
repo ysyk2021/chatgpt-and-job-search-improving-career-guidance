@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve Career Guidance
-==========================================================================================================
 
 In this chapter, we will discuss the role of AI and chatbots in career guidance and how they can improve the job search experience for job seekers.
 
