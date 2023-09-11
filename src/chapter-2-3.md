@@ -1,5 +1,4 @@
-Chapter: Importance of Career Guidance for Job Search
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Career guidance plays a crucial role in the job search process, providing individuals with the necessary resources and support to make informed career decisions and navigate the ever-changing job market successfully. In this chapter, we will explore the importance of career guidance for job search.
 

@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Improve Career Guidance
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI and chatbots can significantly enhance career guidance, revolutionizing the way individuals navigate their professional paths. These technologies offer unique capabilities that can provide personalized insights, support decision-making, and empower individuals to make informed career choices. Let's delve into how AI and chatbots can improve career guidance:
 

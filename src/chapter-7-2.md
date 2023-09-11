@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Job Search and ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the job search landscape continues to evolve, new trends and challenges emerge. This chapter explores some of the emerging trends and challenges in job search and the integration of ChatGPT as a career guidance tool.
 

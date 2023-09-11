@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT for Improving Job Search
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps to implement ChatGPT effectively for improving job search and enhancing career guidance. By following these steps, individuals, organizations, or developers can leverage the power of ChatGPT to provide valuable support and guidance to job seekers.
 

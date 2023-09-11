@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce the concepts of Artificial Intelligence (AI) and chatbots. We will explore how these technologies have revolutionized various industries, including job search and career guidance. Understanding the basics of AI and chatbots is essential for comprehending the role they play in improving career guidance with ChatGPT.
 

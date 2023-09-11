@@ -1,5 +1,4 @@
-Chapter: Impact of these Challenges on Job Search
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT in career guidance and job search brings numerous benefits, but it is not without its challenges. In this chapter, we will explore the impact of these challenges on the job search process and how they can affect individuals seeking employment opportunities.
 

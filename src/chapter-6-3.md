@@ -1,5 +1,4 @@
-Chapter: Case Studies of Job Seekers Successfully Using ChatGPT for Job Search
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-life case studies of job seekers who have successfully utilized ChatGPT for their job search. These stories highlight the effectiveness of ChatGPT in providing valuable guidance and support throughout the job search process. By examining these examples, we can gain insights into how ChatGPT has helped individuals achieve their career goals.
 

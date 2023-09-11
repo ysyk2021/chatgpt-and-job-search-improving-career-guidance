@@ -1,5 +1,4 @@
-Chapter: Definition of Job Search
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Job search can be defined as the process an individual undergoes to secure employment or a new job opportunity. This process involves various stages, including identifying potential job openings, creating a compelling resume, submitting applications, and attending interviews.
 

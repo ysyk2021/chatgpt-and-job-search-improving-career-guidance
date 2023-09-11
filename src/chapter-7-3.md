@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we have explored the integration of ChatGPT as a tool for improving career guidance and job search. We have discussed the capabilities, benefits, and challenges associated with using ChatGPT in the ever-evolving job market. As we conclude this book, let us reflect on the key takeaways and discuss the future outlook of ChatGPT and career guidance.
 

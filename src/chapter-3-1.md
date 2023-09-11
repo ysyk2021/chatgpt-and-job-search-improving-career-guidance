@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Job Search
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 A successful job search is influenced by various factors that can significantly impact an individual's career trajectory. In this chapter, we will discuss some of the key factors that can affect the job search process and outcomes. Understanding these factors is crucial for optimizing job search strategies and improving career guidance with the integration of ChatGPT.
 

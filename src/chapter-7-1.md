@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Job Search with ChatGPT
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced AI language model, has the potential to revolutionize the job search process by introducing innovative advancements. This chapter explores some potential advancements in job search that can be achieved with the integration of ChatGPT.
 

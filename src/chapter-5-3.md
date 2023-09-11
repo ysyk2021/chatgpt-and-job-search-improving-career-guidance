@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Improve Career Guidance
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced AI language model, has the potential to revolutionize the field of career guidance by providing personalized and accessible support to individuals seeking career advice. This chapter explores how ChatGPT can be used to improve career guidance and enhance the job search process.
 

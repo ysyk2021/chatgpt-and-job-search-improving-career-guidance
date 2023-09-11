@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Career Guidance
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss best practices for utilizing ChatGPT in career guidance. ChatGPT, with its conversational AI capabilities, can be a valuable tool in providing assistance and advice to individuals seeking career guidance. However, it is important to consider certain aspects to ensure the effectiveness and reliability of the guidance provided. Let's explore some of the best practices when using ChatGPT in career guidance scenarios.
 
